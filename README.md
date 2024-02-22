@@ -1,6 +1,5 @@
 #!/bin/bash
 
-2/21/2023
 
 #Automation 
 
